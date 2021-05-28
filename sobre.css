@@ -1,0 +1,45 @@
+.menu{
+    background-color: rgb(29, 20, 150);
+    height: 10vh;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    border-bottom: solid white;
+}
+.an{
+    height: 50vh;
+    width: 30px;
+    background-color:rgb(29, 20, 150) ;
+    color: white;
+    text-align: center;
+    border-bottom: solid white;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.bh{
+    height: 50vh;
+    width: 30px;
+    background-color:rgb(29, 20, 150) ;
+    color: white;
+    text-align: center;
+    border-bottom: solid white;
+}
+.ab{
+    height: 50vh;
+    width: 30px;
+    background-color:rgb(29, 20, 150) ;
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+    border-bottom: none;
+}
+body{
+    overflow-x: hidden;
+}

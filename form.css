@@ -1,0 +1,40 @@
+
+.produto{
+    height: 70vh;
+    width: 40vw;
+    background-color:rgb(29, 20, 150) ;
+    margin: auto;
+    padding:40px;
+    margin-top: 60px;
+    
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(29, 20, 150);
+    border: ridge rgb(29, 20, 150);
+    margin: px;
+    
+
+}
+label{
+    color: white;
+    border-radius: 20px;
+}
+body{
+    background-image:url(img/fundo-abstrato-colorido_23-2148807053.jpg);
+    background-size: cover;
+    overflow-x: hidden;
+}
+}
+.h2{
+    text-align: center;
+    background-color: rgb(29, 20, 150);
+    height: 10vh;
+    color: rgb(255, 255, 255);
+    padding-top: 15px;
+}
+.ph{
+    color: white;
+}
+
+    

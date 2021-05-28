@@ -1,0 +1,98 @@
+.anime{
+   background-color: rgb(29, 20, 150);
+   height: 8vh;
+   width: 40vw;
+   border-bottom: solid rgb(255, 255, 255);
+   
+}
+h1{
+    font-size: 40px;
+    color: white;
+}
+h2{
+    font-size: 30px;
+}
+
+.a{
+    background-color: rgb(29, 20, 150);
+    height: 8vh;
+    border-bottom: solid rgb(255, 255, 255);
+    padding-top: 15px;
+   
+   
+}
+a{
+   justify-content:center;
+   color: rgb(255, 255, 255);
+   display: inline;
+   border: none;
+   
+}
+
+.b{
+    background-color: rgb(29, 20, 150);
+    width: 30vw;
+    
+   
+}
+.se{
+    margin: 50px;
+    text-align: center;
+
+}
+.sr{
+    margin: 50px;
+    text-align: center;
+    
+}
+.sa{
+    margin: 50px;
+    text-align: center;
+}
+.sz{
+    margin: 50px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+h2{
+    color: white;
+    font-size: 40px;
+}
+.s{
+    height: 50vh;
+    width: 30vw;
+    background-color: rgb(29, 20, 150);
+}
+.futebol{
+    background-image: url(img/fundo-abstrato-colorido_23-2148807053.jpg);
+    background-size: cover;
+    height: 80vh;
+    width: 100vw;
+    padding-top: 80px;
+    
+
+}
+.fifa{
+    height:40vh ;
+    background-color: rgb(29, 20, 150);
+    width: 30vw;
+    text-align: center;
+    margin: auto ;
+    justify-content: center;
+    
+    
+}
+h6{
+    color: white;
+    padding-top: 10px;
+}
+h3{
+    color: white;
+    padding-top: 10px;
+}
+body{
+    overflow-x: hidden;
+}
